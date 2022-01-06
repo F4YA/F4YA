@@ -3,10 +3,9 @@
 - 🔭 I’m currently working on back-end and front-end
 - 🌱 I’m currently learning software architecture
 <hr>
-<div align="center">
-  <a href="https://www.linkedin.com/in/osvaldo-carvalho-9a7b04211/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=F4YA&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F4YA&layout=compact&langs_count=7&theme=outrun"/>
+<div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=F4YA&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F4YA&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   
 <div style="display: inline_block"><br>
