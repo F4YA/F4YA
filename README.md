@@ -18,3 +18,4 @@
   <img align="center" alt="Faya-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
 </div>
 <hr>
+<a href="https://www.linkedin.com/in/osvaldo-carvalho-9a7b04211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
